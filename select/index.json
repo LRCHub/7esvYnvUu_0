@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "Dear.a（2022ver.）",
+  "base_artist": "ちゃんゆ胃",
+  "createdAt": "2025-12-23T11:03:13.164683Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Dear.a (2022ver.)",
+      "artist": "ちゃんゆ胃",
+      "has_synced": false,
+      "path": "select/01_Dear.a_(2022ver.)_ちゃんゆ胃.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Dear.a(2022ver.)",
+      "artist": "ちゃんゆ胃",
+      "has_synced": false,
+      "path": "select/pl_01_Dear.a(2022ver.)_ちゃんゆ胃.txt"
+    }
+  ]
+}
